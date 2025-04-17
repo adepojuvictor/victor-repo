@@ -1,2 +1,2 @@
 # victor-repo
-one of my first project
+pandas and numpy
